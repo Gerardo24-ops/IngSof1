@@ -1,0 +1,11 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#menú{
+	background-color: yellow;
+	margin: 30px;
+	padding: 50px;
+	border: 3px solid black;
+	border-radius: 20px;
+	}
